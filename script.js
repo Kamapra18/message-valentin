@@ -20,11 +20,13 @@ const messages = [
     },
     {
         lines: [
-            "Hai kamu, yang selalu bikin aku salah tingkah,",
-            "Ingat gak pertama kali kita ketemu? Aku langsung tahu kamu pasti bikin hidupku seru!",
-            "Kamu itu kayak kopi di pagi hari, bikin semangat dan nagih.",
-            "Jangan pernah berubah ya, kecuali kalau mau jadi istri/suami aku. ",
-            "I love you to the moon and back!"
+            "Sayangku,",
+            "Di Hari Valentine ini, aku ingin mengingatkan betapa berartinya dirimu dalam hidupku.",
+            "Setiap detik bersamamu adalah kebahagiaan yang tak tergantikan.",
+            "Kamu adalah alasan aku selalu tersenyum dan merasa lengkap.",
+            "Terima kasih telah hadir sebagai cinta sejati dalam hidupku.",
+            "Aku bersyukur banget bisa menghabiskan hari-hari bersama kamu.",
+            "Selamat Hari Valentine, aku cinta kamu lebih dari yang bisa kuungkapkan!"
         ],
     }
 ];
